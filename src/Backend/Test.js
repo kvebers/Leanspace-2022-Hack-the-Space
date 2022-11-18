@@ -65,8 +65,8 @@ var IdOfSat = 0;
 
 // user input example
 
-var longSiteRad= 120,
-  latSiteRad= 60
+var longSiteRad= 120, // Input values Latitude variables have been switched in place, by nameing
+  latSiteRad= 60 // Input values Longitude variables have been switched in place, by nameing
   passTimeOriginal = new Date();
 for(propIndex in assetTree.content) {
 
